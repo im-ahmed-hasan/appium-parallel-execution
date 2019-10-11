@@ -18,7 +18,7 @@ import java.util.HashMap;
 import java.util.Random;
 
 /**
- * Created by henrrich on 26/06/17.
+ * Created by Ahmed on 26/06/19.
  */
 public class IOSNativeParallelTests {
 
